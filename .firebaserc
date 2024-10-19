@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "clone-a84e1",
+    "youtube-clone": "clone-6d588"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}

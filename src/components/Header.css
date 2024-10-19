@@ -1,0 +1,16 @@
+.placeholder-shift::placeholder {
+    transform: translateY(-2px) translateX(5px);
+    color: grey;
+}
+
+.mic{
+    background-color: rgba(238, 242, 242, 0.908);
+}
+
+.placeholder-shift {
+  color: #888;
+  font-size: 14px;
+  margin-left: 5px;
+}
+
+ 
